@@ -1,6 +1,6 @@
 ---
 date: 2020-01-10
-title: My Frirst Post
+title: My First Post
 toc: true
 ---
 

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iqbalzetto.com</title>
+    <link>https://iqbalzetto.com/</link>
+    <description>Recent content on Iqbalzetto.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sun, 28 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://iqbalzetto.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Me and Myself 1 - Tentang menulis</title>
+      <link>https://iqbalzetto.com/posts/mnm-1/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://iqbalzetto.com/posts/mnm-1/</guid>
+      <description>Sudah lama sekali Saya tidak merenung sambil menulis. Sebuah sensasi bagai berdialog dengan diri sendiri. Ketika jari mengetik, pikiran mengeja, terkadang berhenti sejenak, tarik nafas, ulangi.
+Sesi Me and Myself ini adalah sesi dialog dengan diri sendiri membahas apapun yang saya pikirkan saat menulis.
+Topik sesi MnM pertama ini adalah tentang menulis itu sendiri. Mungkin hanya salam pembuka dan motivasi untuk menulis
+Kenapa saya perlu menulis?
+Karena somehow menulis membuat Saya berfikir.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://iqbalzetto.com/about/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://iqbalzetto.com/about/</guid>
+      <description>Hello, I am a programmer, I make web related stuff
+I like music, sometimes I take my guitar and sing wonderwall, or creep or whatever song that is not complicated I can only jreng jreng and sing, and I&#39;m happy with that.
+I also like to read fantasies stuff, manga or light novel. Sometimes I want to write my own somehow.
+This web is my first time playing with Hugo and I am not well versed in markdown format, but I am quite excited to see what I can do with it.</description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://iqbalzetto.com/experience/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://iqbalzetto.com/experience/</guid>
+      <description>This page is still under construction. Anyway, here&#39;s my portfolio in pdf format</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://iqbalzetto.com/fantasies/my-first-post/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://iqbalzetto.com/fantasies/my-first-post/</guid>
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
+▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
+▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&#39;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://iqbalzetto.com/posts/my-first-post/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://iqbalzetto.com/posts/my-first-post/</guid>
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
+▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
+▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&#39;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+  </channel>
+</rss>
