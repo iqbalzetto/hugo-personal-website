@@ -6,8 +6,38 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Sun, 28 Jun 2020 00:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0000</lastBuildDate>
 		<atom:link href="https://iqbalzetto.com/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Me and Myself 2 - Bad Idea</title>
+			<link>https://iqbalzetto.com/posts/mnm-2/</link>
+			<pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+			
+			<guid>https://iqbalzetto.com/posts/mnm-2/</guid>
+			<description>Kemarin saya menulis untuk membuat satu tulisan setiap harinya. Bahwa saya akan sediakan satu jam untuk menulis. Mungkin itu sebenarnya bukan ide yang bagus, bahkan di hari pertama ini saya langsung berfikiran begitu. Karena timeframe satu jam pasti akan membuat saya bingung apa yg mesti saya tulis.
+Itu hal yang saya pikirkan sebelum saya membuka aplikasi editor dan mulai mengetik. &amp;ldquo;Mulai aja dulu&amp;rdquo;, tagline tokopedia itu memang luar biasa. Mungkin kebiasaan saya untuk selalu kebanyakan mikir.</description>
+			<content type="html"><![CDATA[<p>Kemarin saya menulis untuk membuat satu tulisan setiap harinya. Bahwa saya akan sediakan satu jam untuk menulis. Mungkin itu sebenarnya bukan ide yang bagus, bahkan di hari pertama ini saya langsung berfikiran begitu. Karena timeframe satu jam pasti akan membuat saya bingung apa yg mesti saya tulis.</p>
+<p>Itu hal yang saya pikirkan sebelum saya membuka aplikasi editor dan mulai mengetik. &ldquo;Mulai aja dulu&rdquo;, tagline tokopedia itu memang luar biasa. Mungkin kebiasaan saya untuk selalu kebanyakan mikir. Satu jam itu waktu yang cukup, bisa sedikit riset dan waktu yang cukup untuk menulis. Toh targetnya hanya satu artikel blog. Bukan membuat buku.</p>
+<p><em>Well</em> Kita lihat saja sampai mana mentalitas &ldquo;Mulai aja dulu&rdquo; akan membawa Saya.</p>
+<p>Menulis itu memang tidak mudah. <em>I have no idea what I want to write at all</em>.</p>
+<p><em>Well, let's just talk about my job, Programmer</em>. Apa itu programmer? <em>Let's just take it litteraly and start decomposing</em>.</p>
+<p>Progammer arti literalnya orang yang memprogram. Dari sini ada dua partanyaan, apa itu program? dan apa yang di program? yang di program tentu konteksnya adalah komputer.</p>
+<p>Program sendiri artinya adalah sekumpulan perintah/instruksi yang bisa di-<em>execute</em> Komputer untuk mengerjakan sesuatu.</p>
+<p>Contoh sebuah program adalah perintah <em>Copy</em>. Di program tersebut terdapat sekumpulan perintah seperti:</p>
+<ul>
+<li>check file yang akan dicopy</li>
+<li>masukan isian string file tersebut dalam variable baru</li>
+<li>simpan variable tersebut dalam clipboard.</li>
+</ul>
+<p>Itulah contoh simpel kumpulan perintah dalam program. Hanya saja perintah tersebut pastinya ditulis dalam bahasa pemrograman. Belum lagi perlu ada interpreter agar komputer bisa paham apa yang dituliskan dalam bahasa pemrograman.</p>
+<p>Kita juga belum membahas apa itu Informatika, apa beda informasi dan data. Wah banyak juga ternyata yang bisa dibahas. Okelah mungkin di tulisan-tulisan kedepan kita coba bahas satu-satu.</p>
+<p><br>
+<em>I guess that's it for today, if you're reading this, you're awesome</em></p>
+<p><em>Yours truly,</em><br>
+<strong>Mohammad Iqbal</strong></p>
+]]></content>
+		</item>
 		
 		<item>
 			<title>Me and Myself 1 - Tentang menulis</title>
