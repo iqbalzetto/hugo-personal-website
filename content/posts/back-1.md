@@ -17,7 +17,7 @@ yang dibuat @kamranahmedse & community. Itu adalah github repo yang berisi roadm
 
 Berikut gambaran roadmap untuk backend developer:
 
-![alt text](/static/backend.png "Developer Roadmap")
+![alt text](../../../backend.png "Developer Roadmap")
 
 Lumayan panjang kan ya, ketika saya lihat gambar ini, tingkat arogansi saya menurun sih, karena banyak hal disini yang belum saya ketahui. Bagi saya pribadi rasanya kurang pantas menyebut diri sendiri Senior Backend Programmer kalau belum mengetahui semua hal yang ada disini. 
 
