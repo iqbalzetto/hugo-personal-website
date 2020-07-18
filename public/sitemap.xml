@@ -3,17 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://iqbalzetto.com/</loc>
-    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
+    <loc>https://iqbalzetto.com/posts/back-1/</loc>
+    <lastmod>2020-07-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://iqbalzetto.com/posts/mnm-2/</loc>
-    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
+    <loc>https://iqbalzetto.com/</loc>
+    <lastmod>2020-07-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://iqbalzetto.com/posts/</loc>
+    <lastmod>2020-07-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iqbalzetto.com/posts/mnm-3/</loc>
+    <lastmod>2020-07-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iqbalzetto.com/posts/mnm-2/</loc>
     <lastmod>2020-06-29T00:00:00+00:00</lastmod>
   </url>
   
@@ -39,11 +49,6 @@
   
   <url>
     <loc>https://iqbalzetto.com/fantasies/my-first-post/</loc>
-    <lastmod>2020-01-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iqbalzetto.com/posts/my-first-post/</loc>
     <lastmod>2020-01-10T00:00:00+00:00</lastmod>
   </url>
   
